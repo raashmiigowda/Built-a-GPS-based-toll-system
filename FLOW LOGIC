@@ -1,0 +1,9 @@
+Vehicle sends GPS (lat, long)
+        ↓
+Check if inside toll zone
+        ↓
+If inside → Deduct toll
+        ↓
+Store transaction
+        ↓
+Display in dashboard
