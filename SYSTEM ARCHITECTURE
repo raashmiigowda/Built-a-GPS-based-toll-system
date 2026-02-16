@@ -1,0 +1,7 @@
+[GPS Module / Mobile App]
+        ↓
+[Flask Backend API]
+        ↓
+[Database (MongoDB)]
+        ↓
+[React Frontend Dashboard]
