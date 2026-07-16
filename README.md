@@ -59,9 +59,7 @@ npm start
 Toll deducted successfully based on route
 Notification generated for each transaction
 Real-time tracking visualization (if implemented)
- Screenshots
 
-(Add your project screenshots here for better visibility)
 
  Future Enhancements
 Integration with mobile apps
